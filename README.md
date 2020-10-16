@@ -1,4 +1,5 @@
 [![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # Arduino Library for the Fri3d Camp Badge
 
 This library offers simple interfaces to the hardware peripherals on the Fri3d Camp Badge so you can program the badge using the Arduino IDE and related programming environments. You can find more information on the badge at http://fri3d.be/badge
